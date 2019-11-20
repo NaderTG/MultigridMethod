@@ -1,1 +1,2 @@
-# MultigridMethod
+# Python Implementation of Multigrid Method
+This repository contains a python implementation of multigrid method. The original implementation is in Matlab. There is another implementation in C++ that I am currently working on as a part of my Geometric Numerical Integrator Library. At the moment the repository contains only two files, a python file where all the functions are defined and Jupyter Notebook that shows the use of multigrid method for solving a simple elliptic partial differential equation.
